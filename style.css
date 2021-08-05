@@ -1,0 +1,32 @@
+
+  
+  img{
+    width:60%;
+    height:70%;
+  }
+  table{
+      width: 80%;
+    padding:10px;
+  }
+  td{
+    padding:3px;
+    margin:2px;
+    text-align:center;
+  }
+  #hdd{
+    color:red;
+    font-size:20px;
+    background-color:yellow;
+  }
+  input{
+    font-size:17px;
+    border:none;
+   
+  }
+  .lab{
+    background-color:Navy;
+    color:white;
+    font-weight:bold;
+  
+  }
+  
